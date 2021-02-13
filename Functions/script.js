@@ -19,4 +19,6 @@ function speedTest(name, speed) {
 
 speedTest('Kia Rio', 35);
 
+speedTest('Nissan Sentra', 43);
+
 speedTest('Honda Civic Type R', 93);
